@@ -1,0 +1,11 @@
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\bin\Debug\netcoreapp1.1\PersonalWebsite.deps.json
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\bin\Debug\netcoreapp1.1\PersonalWebsite.runtimeconfig.json
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\bin\Debug\netcoreapp1.1\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\bin\Debug\netcoreapp1.1\PersonalWebsite.dll
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\bin\Debug\netcoreapp1.1\PersonalWebsite.pdb
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\obj\Debug\netcoreapp1.1\PersonalWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\obj\Debug\netcoreapp1.1\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\obj\Debug\netcoreapp1.1\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\obj\Debug\netcoreapp1.1\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\obj\Debug\netcoreapp1.1\PersonalWebsite.dll
+C:\Users\Ben\Epicodus\PersonalWebsite\PersonalWebsite\obj\Debug\netcoreapp1.1\PersonalWebsite.pdb
