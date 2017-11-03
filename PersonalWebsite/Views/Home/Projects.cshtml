@@ -1,0 +1,30 @@
+﻿@model IEnumerable<PersonalWebsite.Models.Starred>
+
+@{
+    ViewData["Title"] = "Projects";
+}
+
+<h2>My most starred projects</h2>
+<hr />
+
+<div class="row">
+    @foreach (var project in Model.OrderByDescending(starred => starred.Stargazers_count).Take(3))
+    {
+        <div class="col-md-4">
+
+            <ul class="list-group">
+                <li class="list-group-item colorpick">
+                    <h3><a href="@project.Html_url">@project.Name</a></h3>
+                </li>
+                <li class="list-group-item">
+                    <span class="badge">@project.Id</span>
+                    Id:
+                </li>
+                <li class="list-group-item">
+                    <span class="badge">@project.Stargazers_count</span>
+                    Stars:
+                </li>
+            </ul>
+         </div>          
+    }
+</div>
